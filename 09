@@ -1,0 +1,7 @@
+<frameset rows="20%,*" frameborder="yes">
+　 <frame src="top.htm" name="top" scrolling="auto" noresize>
+　 <frameset cols="20%,*" frameborder="yes" >
+　　 <frame src="down_left.htm" name="down_left" scrolling="auto" noresize>
+　　 <frame src="down_right.htm" name="down_right">
+　 </frameset>
+</frameset>
